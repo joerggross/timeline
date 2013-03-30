@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="388" measuredH="613" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="106" y="103" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="220" y="210" w="60" h="-1" measuredW="41" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>14</size>
+        <text>Attach</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="311" y="495" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>GearIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="299" y="507" w="-1" h="-1" measuredW="40" measuredH="18" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <size>10</size>
+        <text>Settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Icon" x="162" y="497" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65535</color>
+        <icon>SmallClockIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="150" y="509" w="-1" h="-1" measuredW="33" measuredH="18" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65535</color>
+        <size>10</size>
+        <text>Record</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="233" y="495" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>WriteIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="230" y="509" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <size>10</size>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::PointyButton" x="139" y="208" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <direction>left</direction>
+        <href>StopDefault%202%20Attached%26bm%3BStopDefault%202%20Attached.bmml%26bm%3BStopDefault%202%20Attached.bmml%26bm%3BStopDefault%202%20Attached.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C105%2C85%2C132%22%20href%3D%22StopDefault%25202%2520Attached.bmml%22%20alt%3D%22StopDefault%202%20Attached%22%20id%3D%2255%22/%3E</map>
+        <size>10</size>
+        <text>Record</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="133" y="333" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Medusa%0ADatenbrowser%0AProject%20x</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="184" y="265" w="-1" h="-1" measuredW="115" measuredH="36" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Project%20x</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
