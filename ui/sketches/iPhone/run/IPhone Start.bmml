@@ -3,8 +3,8 @@
     <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="139" y="298" w="-1" h="-1" measuredW="215" measuredH="184" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <hrefs>%2CStartRecordProject%26bm%3BStartRecordProject.bmml%26bm%3BStartRecordProject.bmml%26bm%3BStartRecordProject.bmml%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C229%2C248%2C258%22%20href%3D%22StartRecordProject.bmml%22%20alt%3D%22StartRecordProject%22%20id%3D%222%22/%3E%0A</map>
+        <hrefs>%2CStartDatenbrowser%26bm%3BStartDatenbrowser.bmml%26bm%3BStartDatenbrowser.bmml%26bm%3BStartDatenbrowser.bmml%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C229%2C248%2C258%22%20href%3D%22StartDatenbrowser.bmml%22%20alt%3D%22StartDatenbrowser%22%20id%3D%222%22/%3E%0A</map>
         <text>Medusa%2C%20%3E%0ADatenbrowser%2C%20%3E%0AProject%20x%2C%20%3E%0ADefault%2C%20%3E%0A%20%0A%20</text>
       </controlProperties>
     </control>
