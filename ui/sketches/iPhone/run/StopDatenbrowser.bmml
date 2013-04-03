@@ -44,11 +44,11 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::DataGrid" x="140" y="404" w="215" h="122" measuredW="173" measuredH="95" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::DataGrid" x="140" y="404" w="215" h="122" measuredW="189" measuredH="65" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <hasHeader>false</hasHeader>
-        <text>12.01.%2C%2009%3A00%20-%2018%3A00%2C%20560%0A13.01.%2C%2009%3A30%20-%2017%3A30%2C%20480%0A15.01.%2C%2010%3A00%20-%2013%3A00%2C%20270</text>
+        <text>12.01.%2C%2009%3A00%20-%2018%3A00%2C%20560%0A13.01.%2C%2009%3A30%20-%2017%3A30%2C%20480</text>
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>

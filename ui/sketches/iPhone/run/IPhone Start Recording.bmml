@@ -51,20 +51,20 @@
         <text>Record</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="139" y="298" w="-1" h="-1" measuredW="215" measuredH="184" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="139" y="244" w="-1" h="-1" measuredW="215" measuredH="184" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <hrefs>%2CStartRecordProject%26bm%3BStartRecordProject.bmml%26bm%3BStartRecordProject.bmml%26bm%3BStartRecordProject.bmml%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C229%2C248%2C258%22%20href%3D%22StartRecordProject.bmml%22%20alt%3D%22StartRecordProject%22%20id%3D%2257%22/%3E%0A</map>
-        <text>Medusa%2C%20%3E%0ADatenbrowser%2C%20%3E%0AProject%20x%2C%20%3E%0ADefault%2C%20%3E%0A%20%0A%20</text>
+        <hrefs>%2C%2CStartRecordProject%26bm%3BStartRecordProject.bmml%26bm%3BStartRecordProject.bmml%26bm%3BStartRecordProject.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C204%2C248%2C233%22%20href%3D%22StartRecordProject.bmml%22%20alt%3D%22StartRecordProject%22%20id%3D%2257%22/%3E%0A</map>
+        <text>Default%2C%20%3E%0AMedusa%2C%20%3E%0ADatenbrowser%2C%20%3E%0AProject%20x%2C%20%3E%0A%20%0A%20</text>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::PointyButton" x="139" y="258" w="89" h="-1" measuredW="76" measuredH="31" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::PointyButton" x="139" y="428" w="215" h="-1" measuredW="76" measuredH="31" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>9684093</color>
         <direction>center</direction>
         <href>StopDefault%202%26bm%3BStopDefault%202.bmml%26bm%3BStopDefault%202.bmml%26bm%3BStopDefault%202.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C155%2C122%2C186%22%20href%3D%22StopDefault%25202.bmml%22%20alt%3D%22StopDefault%202%22%20id%3D%2258%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C325%2C248%2C356%22%20href%3D%22StopDefault%25202.bmml%22%20alt%3D%22StopDefault%202%22%20id%3D%2258%22/%3E</map>
         <size>24</size>
         <text>Start</text>
       </controlProperties>

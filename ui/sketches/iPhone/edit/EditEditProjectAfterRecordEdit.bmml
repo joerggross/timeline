@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="388" measuredH="613" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="139" y="247" w="-1" h="-1" measuredW="215" measuredH="39" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <text>Medusa</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="106" y="103" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="216" y="210" w="60" h="-1" measuredW="51" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>14</size>
+        <text>Medusa</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::PointyButton" x="137" y="208" w="54" h="-1" measuredW="51" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <direction>center</direction>
+        <size>10</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::PointyButton" x="305" y="208" w="48" h="-1" measuredW="43" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <direction>center</direction>
+        <href>IPhoneStartAfterDeleted%26bm%3BIPhoneStartAfterDeleted.bmml%26bm%3BIPhoneStartAfterDeleted.bmml%26bm%3BIPhoneStartAfterDeleted.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22199%2C105%2C247%2C132%22%20href%3D%22IPhoneStartAfterDeleted.bmml%22%20alt%3D%22IPhoneStartAfterDeleted%22%20id%3D%2242%22/%3E</map>
+        <size>10</size>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Canvas" x="135" y="329" w="226" h="27" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="210" y="331" w="50" h="-1" measuredW="49" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Records</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="139" y="361" w="184" h="-1" measuredW="215" measuredH="155" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>EditEditProjectEditRecord%26bm%3BEditEditProjectEditRecord.bmml%26bm%3BEditEditProjectEditRecord.bmml%26bm%3BEditEditProjectEditRecord.bmml%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C263%2C217%2C292%22%20href%3D%22EditEditProjectEditRecord.bmml%22%20alt%3D%22EditEditProjectEditRecord%22%20id%3D%2249%22/%3E%0A</map>
+        <text>15.04.%20%2012%3A30%20-%2012%3A33%20%20%20%20%20%20%203%2C%20%3E%0A16.04.%20%2015%3A00%20-%2015%3A10%20%20%20%20%20%2010%2C%20%3E%0A%20%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="330" y="367" w="-1" h="149" measuredW="16" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
