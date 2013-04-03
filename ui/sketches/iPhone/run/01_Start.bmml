@@ -26,13 +26,13 @@
         <text>Settings</text>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::PointyButton" x="139" y="428" w="215" h="-1" measuredW="76" measuredH="31" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::PointyButton" x="139" y="420" w="215" h="-1" measuredW="113" measuredH="47" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>9684093</color>
         <direction>center</direction>
         <href>StopDefault%26bm%3BStopDefault.bmml%26bm%3BStopDefault.bmml%26bm%3BStopDefault.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C325%2C248%2C356%22%20href%3D%22StopDefault.bmml%22%20alt%3D%22StopDefault%22%20id%3D%2221%22/%3E</map>
-        <size>24</size>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C317%2C248%2C364%22%20href%3D%22StopDefault.bmml%22%20alt%3D%22StopDefault%22%20id%3D%2221%22/%3E</map>
+        <size>40</size>
         <text>Start</text>
       </controlProperties>
     </control>

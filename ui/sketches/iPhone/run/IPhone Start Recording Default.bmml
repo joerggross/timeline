@@ -59,13 +59,13 @@
         <text>Default%2C%20%3E%0AMedusa%2C%20%3E%0ADatenbrowser%2C%20%3E%0AProject%20x%2C%20%3E%0A%20%0A%20</text>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::PointyButton" x="139" y="428" w="215" h="-1" measuredW="76" measuredH="31" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::PointyButton" x="139" y="420" w="215" h="-1" measuredW="113" measuredH="47" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>9684093</color>
         <direction>center</direction>
         <href>StopDefault%202%26bm%3BStopDefault%202.bmml%26bm%3BStopDefault%202.bmml%26bm%3BStopDefault%202.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C325%2C248%2C356%22%20href%3D%22StopDefault%25202.bmml%22%20alt%3D%22StopDefault%202%22%20id%3D%2258%22/%3E</map>
-        <size>24</size>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C317%2C248%2C364%22%20href%3D%22StopDefault%25202.bmml%22%20alt%3D%22StopDefault%202%22%20id%3D%2258%22/%3E</map>
+        <size>40</size>
         <text>Start</text>
       </controlProperties>
     </control>

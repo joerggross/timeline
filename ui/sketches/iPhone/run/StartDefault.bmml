@@ -20,17 +20,17 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::PointyButton" x="163" y="258" w="165" h="-1" measuredW="160" measuredH="67" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::PointyButton" x="138" y="296" w="219" h="-1" measuredW="113" measuredH="47" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>9684093</color>
         <direction>center</direction>
         <href>StopDefault%26bm%3BStopDefault.bmml%26bm%3BStopDefault.bmml%26bm%3BStopDefault.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C155%2C222%2C222%22%20href%3D%22StopDefault.bmml%22%20alt%3D%22StopDefault%22%20id%3D%2234%22/%3E</map>
-        <size>60</size>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C193%2C251%2C240%22%20href%3D%22StopDefault.bmml%22%20alt%3D%22StopDefault%22%20id%3D%2234%22/%3E</map>
+        <size>40</size>
         <text>Start</text>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="210" y="330" w="-1" h="-1" measuredW="66" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="220" y="250" w="-1" h="-1" measuredW="66" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>32</size>
         <text>0%3A00</text>
@@ -43,14 +43,14 @@
         <text>Attach</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Canvas" x="133" y="373" w="226" h="22" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Canvas" x="133" y="407" w="226" h="22" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <borderStyle>none</borderStyle>
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::DataGrid" x="140" y="396" w="215" h="130" measuredW="33" measuredH="35" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::DataGrid" x="140" y="430" w="219" h="96" measuredW="33" measuredH="35" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <hasHeader>false</hasHeader>
@@ -58,7 +58,7 @@
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="147" y="372" w="169" h="-1" measuredW="49" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="147" y="406" w="169" h="-1" measuredW="49" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <text>Records</text>
